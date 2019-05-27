@@ -1,0 +1,11 @@
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.BLL\bin\Release\FY.WebDemo.BLL.dll
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.BLL\bin\Release\FY.WebDemo.BLL.pdb
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.BLL\bin\Release\FY.WebDemo.DAL.dll
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.BLL\bin\Release\FY.WebDemo.Model.dll
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.BLL\bin\Release\FY.WebDemo.DAL.pdb
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.BLL\bin\Release\FY.WebDemo.Model.pdb
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.BLL\obj\Release\FY.WebDemo.BLL.csprojAssemblyReference.cache
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.BLL\obj\Release\FY.WebDemo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.BLL\obj\Release\FY.WebDemo.BLL.csproj.CopyComplete
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.BLL\obj\Release\FY.WebDemo.BLL.dll
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.BLL\obj\Release\FY.WebDemo.BLL.pdb

@@ -1,0 +1,6 @@
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.Model\bin\Debug\FY.WebDemo.Model.dll
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.Model\bin\Debug\FY.WebDemo.Model.pdb
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.Model\obj\Debug\FY.WebDemo.Model.csproj.CoreCompileInputs.cache
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.Model\obj\Debug\FY.WebDemo.Model.dll
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.Model\obj\Debug\FY.WebDemo.Model.pdb
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.Model\obj\Debug\FY.WebDemo.Model.csprojAssemblyReference.cache

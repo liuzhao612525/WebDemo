@@ -1,0 +1,9 @@
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.DAL\obj\Debug\FY.WebDemo.DAL.csprojAssemblyReference.cache
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.DAL\obj\Debug\FY.WebDemo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.DAL\bin\Debug\FY.WebDemo.DAL.dll
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.DAL\bin\Debug\FY.WebDemo.DAL.pdb
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.DAL\bin\Debug\FY.WebDemo.Model.dll
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.DAL\bin\Debug\FY.WebDemo.Model.pdb
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.DAL\obj\Debug\FY.WebDemo.DAL.csproj.CopyComplete
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.DAL\obj\Debug\FY.WebDemo.DAL.dll
+C:\Users\liuzhao\source\repos\FY.WebDemo\FY.WebDemo.DAL\obj\Debug\FY.WebDemo.DAL.pdb

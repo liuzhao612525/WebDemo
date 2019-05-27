@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="../Scripts/jquery-3.3.1.js"></script>
+    <script type="text/javascript">
+
+        $(function () {
+            $("#msg").css("display", "none");
+           
+            $("#btnlogin").click(function () {
+                userLogin();
+            });
+        });
+        function userLogin() {
+
+            var username = $("#txtName").val();
+            var pwd = $("#txtPwd").val();
+            if (username != "" && pwd != "") {
+                $.post("Login.ashx", { "userName": username, "pwd": pwd }, function (data) {
+                    var res = data.split(':');
+                    if (res[0] == "ok") {
+                        window.location.href = "/2019-5-23Webform/UserInfoList.aspx";
+                    } else {
+                        $("#msg").css("display", "block");
+                        $("#msg").text(res[1]);
+                        $("#txtName").val("");
+                        $("#txtPwd").val("");
+                    }
+
+                });
+            } else {
+                $("#msg").css("display", "block");
+                $("#msg").text("用户名和密码不能为空");
+            }
+        }
+    </script>
+</head>
+<body>
+    <div>
+        <input type="text" name="txtName" value="" id="txtName" /><br />
+        <input type="text" name="txtPwd" value="" id="txtPwd"/><br />
+        <input type="button" name="submit" value="登录" id="btnlogin"/><span style="font-size:14px;color:red;" id="msg"></span>
+    </div>
+</body>
+</html>

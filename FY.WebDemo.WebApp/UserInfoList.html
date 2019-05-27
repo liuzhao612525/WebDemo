@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <link href="Css/tableStyle.css" rel="stylesheet" />
+    <script src="Scripts/jquery-3.3.1.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $(".delete").click(function () {
+                if (!confirm("确定删除吗？")) {
+                    return false;
+                }
+
+            });
+        })
+    </script>
+
+</head>
+<body>
+    <a href="AddUserInfo.html">添加</a>
+    <table>
+        <tr><th>编号</th><th>用户名</th><th>密码</th><th>邮箱</th><th>时间</th><th>详情</th><th>编辑</th><th>删除</th></tr>
+        @tbody
+    </table>
+</body>
+</html>
